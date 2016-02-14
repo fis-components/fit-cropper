@@ -1,0 +1,12 @@
+{
+    "name": "fit-cropper",
+    "description": "cropper",
+    "repos": "https://github.com/tb-component/pc-cropper.git",
+    "main": "lib/index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "cropperjs": "^0.5.6"
+    },
+    "version": "0.0.8"
+}
